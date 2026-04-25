@@ -1,0 +1,5 @@
+pytelegrambotapi==4.33.0
+aiofiles==25.1.0
+aiogram==3.27.0
+python-dotenv==1.0.0
+requests==2.33.1
